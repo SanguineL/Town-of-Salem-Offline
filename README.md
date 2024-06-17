@@ -1,7 +1,7 @@
 # Town-of-Salem-Offline by SanguineL
 My version of Town of Salem
 
-Made by SanguineL @ alexstrickland.home.blog
+Made by SanguineL
 
 
 Town of Salem Rules:
